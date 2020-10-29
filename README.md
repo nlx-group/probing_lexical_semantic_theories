@@ -20,7 +20,7 @@ Please note that the semantic network to semantic space method presented in the 
 
 [MTurk-771](http://www2.mta.ac.il/~gideon/datasets/)
 
-**Models**
+**Lexical Semantic Models**
 
 The following models are available for download:
 
