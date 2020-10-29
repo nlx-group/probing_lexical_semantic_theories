@@ -2,7 +2,7 @@
 
 **Article**
 
-Branco, António, João António Rodrigues, Małgorzata Salawa, Ruben Branco, 2020, ["Comparative Probing of Lexical Semantics Theories for Cognitive Plausibility and Technological Usefulness"](http://www.di.fc.ul.pt/~ahb/pubs/), To appear in Proceedings, International Conference on Computational Linguistics (COLING2020).
+Branco, António, João Rodrigues, Małgorzata Salawa, Ruben Branco, 2020, ["Comparative Probing of Lexical Semantics Theories for Cognitive Plausibility and Technological Usefulness"](http://www.di.fc.ul.pt/~ahb/pubs/), To appear in Proceedings, International Conference on Computational Linguistics (COLING2020).
 
 **Test sets used in above paper**
 
